@@ -1,2 +1,12 @@
 # SystemAnalysis-Design
 CS-255
+# Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+The DriverPass project was designed for a client, DriverPass, who seen a lack in training and people passing tests in drivers. This caused DriverPass to look at building a system which would allow potential and current drivers to take online and in person training to allow for better drivers and more successful testing. This needed to be able to run on desktop and on mobile application.
+# What did you do particularly well?
+I felt that I was able to design the diagrams quite well. I felt good finding the activities and sequences needed for the assignments and being able to show it in a way that anyone can read it.
+# If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+If I could choose one part to revise it would be the technical requirements section of the final project. I felt that I explained the larger idea of using a cloud based system for the company but did not get into more specific hardware and software requirements.
+# How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+The user's needs were very well explained during the interview process of the system requirements collection at the very beginning of this project. From this, I was able to see that the user's needs were very specific to drivers passing tests and for the system to be able to scale and run fast. It is extremely important for the user's needs to be considered when designing a project. The user is the only person in the process who's decisions matter and it needs to be designed to their liking, with input from the designer, but in the end it is their final decision.
+# How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+I approach designing software in a piece by piece approach. The same way as the development lifecycle teaches I like to start with an overall theme for the software and then break it into smaller pieces of a larger piece. The techniques taught in this class and those prior are vital stratagies that I will use in the future. The in-person interview to get clients needs, having a system and business plan in place, and collaborating with the group to come to a conclusion that is workable for the user and the client.
